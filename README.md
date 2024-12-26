@@ -18,3 +18,5 @@ The warning above was a `abstract` type admonition
 aaa
 
 bbb
+
+xxx
